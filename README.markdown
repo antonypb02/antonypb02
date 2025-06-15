@@ -22,7 +22,7 @@ I’m a versatile coder with a knack for building robust applications and intuit
   - Automating processes with Blue Prism (RPA) 🤖
   - Creating database-driven apps with PostgreSQL and CRUD operations 🗃️
 
----
+-------
 
 ## 🚀 Featured Projects
 
