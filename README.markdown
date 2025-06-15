@@ -75,7 +75,7 @@ I’m always excited to collaborate, share ideas, or geek out about tech! Reach 
 
 Want to contribute to my projects or have an idea for something awesome? Open an issue or send me a message! 🚀
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🐻 Fun Corner...
 
