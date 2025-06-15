@@ -77,7 +77,7 @@ Want to contribute to my projects or have an idea for something awesome? Open an
 
 ---
 
-## 🐻 Fun Corner
+## 🐻 Fun Corner...
 
 Inspired by my love for creative touches, here’s a nod to my favorite bear link: **ʕ⊙ᴥ⊙ʔ**  
 Let’s build something *pawsome* together! 🐾
