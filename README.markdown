@@ -68,10 +68,10 @@ An ML-powered project using CNN and LSTM models to extract image features and ge
 
 I’m always excited to collaborate, share ideas, or geek out about tech! Reach out to me:
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](#)
-- 🐦 X: [@YourXHandle](#)
-- 💻 Portfolio: [Your Portfolio Website](#)
+- 📧 Email: [PBANTONY4@GMAIL.COM](mailto:pbantony4@gmail.com)
+- 🌐 LinkedIn: https://www.linkedin.com/in/antony-pb
+- 🐦 X: DISCLOSED
+- 💻 Portfolio: LOADING....
 
 Want to contribute to my projects or have an idea for something awesome? Open an issue or send me a message! 🚀
 
